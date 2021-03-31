@@ -1,0 +1,4 @@
+libraries:
+pyGObject(Gtk >= 3.0, Gdk)
+cairo
+
