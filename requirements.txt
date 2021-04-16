@@ -1,0 +1,5 @@
+libraries:
+pyGObject(Gtk >= 3.0, Gdk)
+cairo
+
+у меня все работает только через анаконду

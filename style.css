@@ -1,0 +1,24 @@
+
+window {
+    background: rgb(50, 50, 50);
+}
+box {
+    background: rgb(233, 248, 246);
+    color: black;
+}
+button#b-btn {
+    background: rgb(255, 255, 255);
+    color: black;
+}
+button#b-btn {
+    background: rgb(0, 0, 176);
+    color: black;
+}
+button#r-btn {
+    background: rgb(238, 0, 0);
+    color: black;
+}
+button#g-btn {
+    background: rgb(0, 240, 0);
+    color: black;
+}
